@@ -28,7 +28,7 @@ Quality assurance is essential as it reduces errors, improves performance, and e
 # How does defining the project scope contribute to success? What is a Work Breakdown Structure (WBS)?
 
 Defining the project scope helps prevent scope creep, aligns stakeholder expectations, and ensures feasibility.
-A Work Breakdown Structure (WBS) is a hierarchical breakdown of project tasks, helping teams manage workload, track progress, and allocate resources efficiently.
+A Work Breakdown Structure is a hierarchical breakdown of project tasks, helping teams manage workload, track progress, and allocate resources efficiently.
 
 # Benefits of a detailed project schedule & role of Gantt charts.
 

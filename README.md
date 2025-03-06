@@ -17,7 +17,7 @@ On the other hand, Waterfall follows a structured and sequential approach with c
 
 # When is Agile more beneficial than Waterfall, and vice versa? Examples?
 
-Agile is more beneficial in projects where requirements are likely to change, such as mobile applications, SaaS platforms, or startups launching MVPs. 
+Agile is more beneficial in projects where requirements are likely to change, such as mobile applications, SaaS platforms, or startups launching minimum viable products. 
 Waterfall is better suited for projects with well-defined requirements, strict regulations, or minimal expected changes, such as banking software, aerospace systems, or government projects.
 
 # Methods for ensuring quality assurance in a software project & why it's important
